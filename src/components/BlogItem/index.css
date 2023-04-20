@@ -1,0 +1,32 @@
+.blogItem {
+  border: 2px solid #d3d3d3;
+  width: 70vw;
+  list-style: none;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 14px;
+}
+.blogItem > img {
+  width: 100%;
+}
+.auth {
+  display: flex;
+  align-items: center;
+}
+.auth > img {
+  width: 40px;
+  margin-right: 10px;
+  border-radius: 40px;
+}
+.auth > p {
+  color: #8e8e8e;
+}
+.blogItem > p {
+  color: #8e8e8e;
+}
+.blogItem > h3 {
+  color: black;
+}
+.link {
+  text-decoration: none;
+}

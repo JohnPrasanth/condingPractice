@@ -1,0 +1,26 @@
+.blog {
+  padding: 20px;
+}
+.blog > h2 {
+  text-align: center;
+}
+.blog > img {
+  width: 100%;
+}
+.blog > p {
+  color: #2f4f4f;
+}
+.auth {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+.auth > img {
+  width: 50px;
+  margin-right: 5px;
+  border-radius: 40px;
+}
+
+.auth > span {
+  color: #000000;
+}
